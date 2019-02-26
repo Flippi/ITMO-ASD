@@ -1,0 +1,7 @@
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\bin\Debug\week1.exe.config
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\bin\Debug\week1.exe
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\bin\Debug\week1.pdb
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\obj\Debug\week1.csprojAssemblyReference.cache
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\obj\Debug\week1.csproj.CoreCompileInputs.cache
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\obj\Debug\week1.exe
+C:\Users\flipp\Desktop\ITMO\4 sem\ASD\openedu\week1\week1\week1\obj\Debug\week1.pdb
